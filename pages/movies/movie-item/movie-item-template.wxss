@@ -1,0 +1,18 @@
+@import "../star/star-template.wxss";
+
+.item-contaniner{
+  display: flex;
+  flex-direction: column;
+  padding: 0 22rpx;
+}
+
+.item-img{
+  width: 200rpx;
+  height: 220rpx;
+  padding-bottom: 20rpx
+}
+
+.item-title{
+  font-size: 24rpx;
+  margin-bottom: 12rpx
+}

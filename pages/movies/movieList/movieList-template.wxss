@@ -1,0 +1,36 @@
+@import "../movie-item/movie-item-template.wxss";
+
+.list-container{
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+  
+
+.list-head{
+  margin: 22rpx 20rpx;
+}
+
+.slogan{
+  font-size: 24rpx
+}
+
+.more{
+  float: right;
+}
+
+.more-text{
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+
+.arrow{
+  width: 9rpx;
+  height: 16rpx
+}
+
+.movies{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 22rpx
+}
